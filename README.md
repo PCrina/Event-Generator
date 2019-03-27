@@ -62,5 +62,5 @@ FACT.out
 ```
 To run the app:
 ```
-java -jar eventqueue.jar dim_coadă evenimente_fişier nume_fișier1 nume_fișier2 [...]
+java -jar eventqueue.jar queue_size file_events file1 file2 [...]
 ```
